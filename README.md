@@ -7,7 +7,7 @@
 
 ### Project Samples:
 **TokenStats**
-![image](https://user-images.githubusercontent.com/54010874/195438270-28b563f8-2b3c-4fdf-af05-510f5520795c.png)
+![image](https://user-images.githubusercontent.com/54010874/195439369-b457f6b5-b390-4fc3-b4d7-6df47bacaffe.png)
 
 **BadReads** 
 ![image](https://user-images.githubusercontent.com/54010874/195437945-36b02287-edaa-4afb-9581-8d9d6994f2db.png)
