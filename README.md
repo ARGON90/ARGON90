@@ -1,4 +1,4 @@
-### ✨ Welcome to my Repository ✨
+# ✨ Welcome to my Repository ✨
 
 ## I'm a Full-Stack software engineer ready to express myself through code!
 
