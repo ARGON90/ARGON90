@@ -1,7 +1,7 @@
 # ✨ Hi! I'm Alex, ✨
 
 ### a Full-Stack software engineer ready to express myself through code!
-
+![ARGON90's GitHub stats](https://github-readme-stats.vercel.app/api?username=ARGON90&theme=dark&show_icons=true)
 [![ARGON90's GitHub stats](https://github-readme-stats.vercel.app/api?username=ARGON90&show_icons=true&theme=tokyonight)](https://github.com/ARGON90/README.md)[![GitHub Streak](https://streak-stats.demolab.com/?user=ARGON90&&theme=dark)](https://git.io/streak-stats)
 
 
